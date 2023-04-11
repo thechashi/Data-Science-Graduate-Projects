@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "data-science-graduate-projects"
+version = "0.1.0"
+description = "Class projects from the course Graduate Projects in Data Science (Spring 2023)"
+authors = ["Chashi Mahiul Islam <ci20l@fsu.edu>"]
+readme = "README.md"
+packages = [{include = "data_science_graduate_projects"}]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
