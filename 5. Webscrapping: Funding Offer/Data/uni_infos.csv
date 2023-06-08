@@ -1,0 +1,188 @@
+,rank,uni_name,count,faculty,div_ids
+0,1,Carnegie Mellon University,20.9,166,Carnegie%20Mellon%20University-faculty
+1,2,Univ of Illinois at UrbanaChampaign,14.6,113,Univ.%20of%20Illinois%20at%20Urbana-Champaign-faculty
+2,3,Massachusetts Institute of Technology,13.0,94,Massachusetts%20Institute%20of%20Technology-faculty
+3,4,Univ of California  San Diego,11.9,113,Univ.%20of%20California%20-%20San%20Diego-faculty
+4,5,University of Michigan,11.4,100,University%20of%20Michigan-faculty
+5,6,Stanford University,10.9,68,Stanford%20University-faculty
+6,7,University of Washington,10.8,80,University%20of%20Washington-faculty
+7,8,Cornell University,10.6,82,Cornell%20University-faculty
+8,9,Univ of California  Berkeley,10.4,90,Univ.%20of%20California%20-%20Berkeley-faculty
+9,10,Georgia Institute of Technology,9.3,102,Georgia%20Institute%20of%20Technology-faculty
+10,11,University of Maryland  College Park,8.4,85,University%20of%20Maryland%20-%20College%20Park-faculty
+11,12,Northeastern University,7.9,77,Northeastern%20University-faculty
+12,13,Purdue University,7.7,74,Purdue%20University-faculty
+13,14,Columbia University,7.6,56,Columbia%20University-faculty
+14,14,University of Texas at Austin,7.6,51,University%20of%20Texas%20at%20Austin-faculty
+15,14,University of Wisconsin  Madison,7.6,66,University%20of%20Wisconsin%20-%20Madison-faculty
+16,17,University of Pennsylvania,7.4,74,University%20of%20Pennsylvania-faculty
+17,18,Princeton University,6.1,50,Princeton%20University-faculty
+18,19,New York University,5.9,61,New%20York%20University-faculty
+19,19,Univ of California  Los Angeles,5.9,43,Univ.%20of%20California%20-%20Los%20Angeles-faculty
+20,21,University of Massachusetts Amherst,5.8,57,University%20of%20Massachusetts%20Amherst-faculty
+21,22,Stony Brook University,5.4,58,Stony%20Brook%20University-faculty
+22,22,Univ of California  Santa Barbara,5.4,37,Univ.%20of%20California%20-%20Santa%20Barbara-faculty
+23,24,Rutgers University,5.3,49,Rutgers%20University-faculty
+24,25,University of Chicago,5.2,47,University%20of%20Chicago-faculty
+25,26,Univ of California  Irvine,5.1,70,Univ.%20of%20California%20-%20Irvine-faculty
+26,26,University of Southern California,5.1,47,University%20of%20Southern%20California-faculty
+27,28,Duke University,4.9,51,Duke%20University-faculty
+28,29,Pennsylvania State University,4.6,60,Pennsylvania%20State%20University-faculty
+29,30,Univ of California  Riverside,4.5,48,Univ.%20of%20California%20-%20Riverside-faculty
+30,31,Northwestern University,4.4,43,Northwestern%20University-faculty
+31,32,Ohio State University,4.3,47,Ohio%20State%20University-faculty
+32,33,Harvard University,4.2,28,Harvard%20University-faculty
+33,34,University of Utah,4.1,59,University%20of%20Utah-faculty
+34,34,Yale University,4.1,39,Yale%20University-faculty
+35,36,George Mason University,4.0,51,George%20Mason%20University-faculty
+36,37,Brown University,3.9,39,Brown%20University-faculty
+37,37,Texas AM University,3.9,45,Texas%20A%26M%20University-faculty
+38,39,Univ of California  Santa Cruz,3.8,57,Univ.%20of%20California%20-%20Santa%20Cruz-faculty
+39,40,Boston University,3.7,37,Boston%20University-faculty
+40,40,University at Buffalo,3.7,45,University%20at%20Buffalo-faculty
+41,42,University of Illinois at Chicago,3.6,45,University%20of%20Illinois%20at%20Chicago-faculty
+42,43,Rice University,3.5,30,Rice%20University-faculty
+43,43,University of Colorado Boulder,3.5,62,University%20of%20Colorado%20Boulder-faculty
+44,45,Arizona State University,3.4,49,Arizona%20State%20University-faculty
+45,45,University of Minnesota,3.4,41,University%20of%20Minnesota-faculty
+46,45,University of Virginia,3.4,39,University%20of%20Virginia-faculty
+47,48,North Carolina State University,3.3,43,North%20Carolina%20State%20University-faculty
+48,48,University of North Carolina,3.3,34,University%20of%20North%20Carolina-faculty
+49,50,Univ of California  Davis,3.2,34,Univ.%20of%20California%20-%20Davis-faculty
+50,51,Oregon State University,3.0,33,Oregon%20State%20University-faculty
+51,51,Virginia Tech,3.0,52,Virginia%20Tech-faculty
+52,53,Indiana University,2.9,54,Indiana%20University-faculty
+53,53,Johns Hopkins University,2.9,28,Johns%20Hopkins%20University-faculty
+54,53,University of Pittsburgh,2.9,37,University%20of%20Pittsburgh-faculty
+55,56,University of Central Florida,2.8,40,University%20of%20Central%20Florida-faculty
+56,57,Michigan State University,2.4,27,Michigan%20State%20University-faculty
+57,57,University of Rochester,2.4,22,University%20of%20Rochester-faculty
+58,57,University of Texas at Dallas,2.4,38,University%20of%20Texas%20at%20Dallas-faculty
+59,60,Washington University in St Louis,2.3,22,Washington%20University%20in%20St.%20Louis-faculty
+60,61,Rochester Institute of Technology,2.2,37,Rochester%20Institute%20of%20Technology-faculty
+61,61,Univ of California  Merced,2.2,17,Univ.%20of%20California%20-%20Merced-faculty
+62,63,University of Notre Dame,2.1,24,University%20of%20Notre%20Dame-faculty
+63,63,University of Texas at Arlington,2.1,23,University%20of%20Texas%20at%20Arlington-faculty
+64,65,Binghamton University,2.0,18,Binghamton%20University-faculty
+65,65,Dartmouth College,2.0,17,Dartmouth%20College-faculty
+66,65,University of Connecticut,2.0,20,University%20of%20Connecticut-faculty
+67,65,University of Florida,2.0,26,University%20of%20Florida-faculty
+68,69,California Institute of Technology,1.9,13,California%20Institute%20of%20Technology-faculty
+69,69,TTI Chicago,1.9,13,TTI%20Chicago-faculty
+70,69,Vanderbilt University,1.9,28,Vanderbilt%20University-faculty
+71,69,Worcester Polytechnic Institute,1.9,25,Worcester%20Polytechnic%20Institute-faculty
+72,73,Clemson University,1.8,22,Clemson%20University-faculty
+73,73,College of William and Mary,1.8,14,College%20of%20William%20and%20Mary-faculty
+74,73,Stevens Institute of Technology,1.8,16,Stevens%20Institute%20of%20Technology-faculty
+75,73,Tufts University,1.8,17,Tufts%20University-faculty
+76,73,University of Delaware,1.8,22,University%20of%20Delaware-faculty
+77,78,CUNY,1.7,33,CUNY-faculty
+78,78,Florida State University,1.7,14,Florida%20State%20University-faculty
+79,78,Iowa State University,1.7,22,Iowa%20State%20University-faculty
+80,78,NJIT,1.7,21,NJIT-faculty
+81,78,University of Houston,1.7,15,University%20of%20Houston-faculty
+82,78,University of Oregon,1.7,16,University%20of%20Oregon-faculty
+83,84,Colorado School of Mines,1.6,11,Colorado%20School%20of%20Mines-faculty
+84,84,Emory University,1.6,13,Emory%20University-faculty
+85,84,Georgetown University,1.6,14,Georgetown%20University-faculty
+86,84,Illinois Institute of Technology,1.6,17,Illinois%20Institute%20of%20Technology-faculty
+87,84,Syracuse University,1.6,18,Syracuse%20University-faculty
+88,84,Temple University,1.6,16,Temple%20University-faculty
+89,84,University of Arizona,1.6,19,University%20of%20Arizona-faculty
+90,84,University of Tennessee,1.6,14,University%20of%20Tennessee-faculty
+91,84,Washington State University,1.6,17,Washington%20State%20University-faculty
+92,93,Brigham Young University,1.5,20,Brigham%20Young%20University-faculty
+93,93,George Washington University,1.5,14,George%20Washington%20University-faculty
+94,93,Lehigh University,1.5,15,Lehigh%20University-faculty
+95,93,Portland State University,1.5,12,Portland%20State%20University-faculty
+96,93,Rensselaer Polytechnic Institute,1.5,11,Rensselaer%20Polytechnic%20Institute-faculty
+97,93,UNC  Charlotte,1.5,17,UNC%20-%20Charlotte-faculty
+98,93,University of Georgia,1.5,11,University%20of%20Georgia-faculty
+99,93,University of Massachusetts Lowell,1.5,21,University%20of%20Massachusetts%20Lowell-faculty
+100,93,University of Nebraska,1.5,16,University%20of%20Nebraska-faculty
+101,93,University of South Carolina,1.5,12,University%20of%20South%20Carolina-faculty
+102,93,Wayne State University,1.5,15,Wayne%20State%20University-faculty
+103,104,Augusta University,1.4,12,Augusta%20University-faculty
+104,104,Boston College,1.4,9,Boston%20College-faculty
+105,104,Brandeis University,1.4,9,Brandeis%20University-faculty
+106,104,Case Western Reserve University,1.4,10,Case%20Western%20Reserve%20University-faculty
+107,104,Drexel University,1.4,14,Drexel%20University-faculty
+108,104,Florida International University,1.4,15,Florida%20International%20University-faculty
+109,104,Tulane University,1.4,10,Tulane%20University-faculty
+110,104,University of Iowa,1.4,13,University%20of%20Iowa-faculty
+111,104,University of Louisiana  Lafayette,1.4,12,University%20of%20Louisiana%20-%20Lafayette-faculty
+112,113,Colorado State University,1.3,9,Colorado%20State%20University-faculty
+113,113,DePaul University,1.3,14,DePaul%20University-faculty
+114,113,Kent State University,1.3,9,Kent%20State%20University-faculty
+115,113,Michigan Technological University,1.3,7,Michigan%20Technological%20University-faculty
+116,113,Texas State University,1.3,10,Texas%20State%20University-faculty
+117,113,UCCS,1.3,8,UCCS-faculty
+118,113,Univ of Maryland  Baltimore County,1.3,13,Univ.%20of%20Maryland%20-%20Baltimore%20County-faculty
+119,113,University of Arkansas,1.3,8,University%20of%20Arkansas-faculty
+120,113,University of Kansas,1.3,12,University%20of%20Kansas-faculty
+121,113,University of Kentucky,1.3,8,University%20of%20Kentucky-faculty
+122,113,University of Memphis,1.3,6,University%20of%20Memphis-faculty
+123,113,University of Nevada,1.3,14,University%20of%20Nevada-faculty
+124,113,University of New Hampshire,1.3,6,University%20of%20New%20Hampshire-faculty
+125,113,University of North Texas,1.3,11,University%20of%20North%20Texas-faculty
+126,113,University of South Florida,1.3,10,University%20of%20South%20Florida-faculty
+127,113,University of Texas at San Antonio,1.3,9,University%20of%20Texas%20at%20San%20Antonio-faculty
+128,113,Virginia Commonwealth University,1.3,11,Virginia%20Commonwealth%20University-faculty
+129,130,Auburn University,1.2,8,Auburn%20University-faculty
+130,130,Georgia State University,1.2,10,Georgia%20State%20University-faculty
+131,130,IUPUI,1.2,13,IUPUI-faculty
+132,130,Kansas State University,1.2,6,Kansas%20State%20University-faculty
+133,130,Louisiana State University,1.2,7,Louisiana%20State%20University-faculty
+134,130,New Mexico State University,1.2,12,New%20Mexico%20State%20University-faculty
+135,130,Northern Arizona University,1.2,7,Northern%20Arizona%20University-faculty
+136,130,Old Dominion University,1.2,8,Old%20Dominion%20University-faculty
+137,130,Texas Tech University,1.2,8,Texas%20Tech%20University-faculty
+138,130,University of Hawaii at Manoa,1.2,8,University%20of%20Hawaii%20at%20Manoa-faculty
+139,130,University of MichiganDearborn,1.2,8,University%20of%20Michigan-Dearborn-faculty
+140,130,University of New Mexico,1.2,9,University%20of%20New%20Mexico-faculty
+141,130,University of Vermont,1.2,7,University%20of%20Vermont-faculty
+142,130,West Virginia University,1.2,7,West%20Virginia%20University-faculty
+143,144,Boise State University,1.1,6,Boise%20State%20University-faculty
+144,144,Cleveland State University,1.1,4,Cleveland%20State%20University-faculty
+145,144,Florida Atlantic University,1.1,3,Florida%20Atlantic%20University-faculty
+146,144,Mississippi State University,1.1,5,Mississippi%20State%20University-faculty
+147,144,Naval Postgraduate School,1.1,8,Naval%20Postgraduate%20School-faculty
+148,144,OHSU,1.1,3,OHSU-faculty
+149,144,Ohio University,1.1,2,Ohio%20University-faculty
+150,144,Oklahoma State University,1.1,4,Oklahoma%20State%20University-faculty
+151,144,The University of Alabama,1.1,5,The%20University%20of%20Alabama-faculty
+152,144,Towson University,1.1,2,Towson%20University-faculty
+153,144,UNC  Greensboro,1.1,4,UNC%20-%20Greensboro-faculty
+154,144,University at Albany  SUNY,1.1,4,University%20at%20Albany%20-%20SUNY-faculty
+155,144,University of Alabama  Birmingham,1.1,5,University%20of%20Alabama%20-%20Birmingham-faculty
+156,144,University of Cincinnati,1.1,6,University%20of%20Cincinnati-faculty
+157,144,University of Colorado  Denver,1.1,2,University%20of%20Colorado%20-%20Denver-faculty
+158,144,University of Denver,1.1,3,University%20of%20Denver-faculty
+159,144,University of Massachusetts Boston,1.1,7,University%20of%20Massachusetts%20Boston-faculty
+160,144,University of Miami,1.1,2,University%20of%20Miami-faculty
+161,144,University of Missouri,1.1,5,University%20of%20Missouri-faculty
+162,144,University of Nebraska  Omaha,1.1,5,University%20of%20Nebraska-faculty
+163,144,University of Nevada Las Vegas,1.1,4,University%20of%20Nevada%20Las%20Vegas-faculty
+164,144,University of New Orleans,1.1,3,University%20of%20New%20Orleans-faculty
+165,144,University of Southern Mississippi,1.1,2,University%20of%20Southern%20Mississippi-faculty
+166,144,University of Texas  El Paso,1.1,5,University%20of%20Texas%20-%20El%20Paso-faculty
+167,144,University of Wisconsin  Milwaukee,1.1,3,University%20of%20Wisconsin%20-%20Milwaukee-faculty
+168,144,University of Wyoming,1.1,2,University%20of%20Wyoming-faculty
+169,144,Utah State University,1.1,4,Utah%20State%20University-faculty
+170,144,Western Michigan University,1.1,2,Western%20Michigan%20University-faculty
+171,144,Wichita State University,1.1,3,Wichita%20State%20University-faculty
+172,173,Florida Institute of Technology,1.0,1,Florida%20Institute%20of%20Technology-faculty
+173,173,Indiana State University,1.0,2,Indiana%20State%20University-faculty
+174,173,Missouri ST,1.0,2,Missouri%20S%26T-faculty
+175,173,Missouri University of Technology,1.0,2,Missouri%20University%20of%20Technology-faculty
+176,173,Montana State University,1.0,3,Montana%20State%20University-faculty
+177,173,New Mexico Tech,1.0,1,New%20Mexico%20Tech-faculty
+178,173,Nova Southeastern University,1.0,1,Nova%20Southeastern%20University-faculty
+179,173,Oakland University,1.0,1,Oakland%20University-faculty
+180,173,Shanghaitech University,1.0,1,Shanghaitech%20University-faculty
+181,173,Southern Methodist University,1.0,2,Southern%20Methodist%20University-faculty
+182,173,University of Alabama  Huntsville,1.0,1,University%20of%20Alabama%20-%20Huntsville-faculty
+183,173,University of Louisville,1.0,2,University%20of%20Louisville-faculty
+184,173,University of Missouri  Kansas City,1.0,3,University%20of%20Missouri%20-%20Kansas%20City-faculty
+185,173,University of Oklahoma,1.0,4,University%20of%20Oklahoma-faculty
+186,173,University of Tulsa,1.0,2,University%20of%20Tulsa-faculty

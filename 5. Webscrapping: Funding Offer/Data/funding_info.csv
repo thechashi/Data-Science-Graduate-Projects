@@ -1,0 +1,294 @@
+,Faculty Name,# Pubs,Adj. #,University,Faculty Home Page,dblp,providing_assitantship,matched_ratio
+0,Graham Neubig  nlp,135.0,35.1,Carnegie Mellon University,http://www.phontron.com,https://dblp.org/pers/hd/n/Neubig:Graham,0,0.0
+1,Abhinav Gupta 0001  vision,111.0,32.3,Carnegie Mellon University,http://www.cs.cmu.edu/~abhinavg,https://dblp.org/pers/hd/g/Gupta_0001:Abhinav,0,0.0
+2,"David P. Woodruff  ml  ,  theory",99.0,33.7,Carnegie Mellon University,http://www.cs.cmu.edu/~dwoodruf,https://dblp.org/pers/hd/w/Woodruff:David_P%3D,0,0.0
+3,Howie Choset  robotics,83.0,19.5,Carnegie Mellon University,http://www.cs.cmu.edu/~./choset,https://dblp.org/pers/hd/c/Choset:Howie,0,0.0
+4,"Tuomas Sandholm  ai  ,  ml",80.0,29.8,Carnegie Mellon University,http://www.cs.cmu.edu/~sandholm,https://dblp.org/pers/hd/s/Sandholm:Tuomas,0,0.0
+5,Pradeep Ravikumar  ml,79.0,20.8,Carnegie Mellon University,http://www.cs.cmu.edu/~pradeepr,https://dblp.org/pers/hd/r/Ravikumar:Pradeep,0,0.0
+6,Martial Hebert  vision,78.0,22.0,Carnegie Mellon University,http://www.cs.cmu.edu/~./hebert,https://dblp.org/pers/hd/h/Hebert:Martial,0,0.0
+7,Deva Ramanan  vision,77.0,24.4,Carnegie Mellon University,http://www.cs.cmu.edu/~deva,https://dblp.org/pers/hd/r/Ramanan:Deva,0,0.0
+8,J. Zico Kolter  ml,69.0,21.5,Carnegie Mellon University,http://www.zicokolter.com,https://dblp.org/pers/hd/k/Kolter:J%3D_Zico,0,0.0
+9,Maxim Likhachev  robotics,66.0,19.8,Carnegie Mellon University,https://www.ri.cmu.edu/ri-faculty/maxim-likhachev,https://dblp.org/pers/hd/l/Likhachev:Maxim,0,0.0
+10,Elaine Shi  security,61.0,15.9,Carnegie Mellon University,http://elaineshi.com,https://dblp.org/pers/hd/s/Shi:Elaine,1,0.18181818181818182
+11,Chris Harrison 0001  hci,58.0,16.3,Carnegie Mellon University,http://www.chrisharrison.net,https://dblp.org/pers/hd/h/Harrison_0001:Chris,0,0.0
+12,Vincent Conitzer  ai,55.0,21.6,Carnegie Mellon University,https://users.cs.duke.edu/~conitzer,https://dblp.org/pers/hd/c/Conitzer:Vincent,0,0.0
+13,Louis-Philippe Morency  nlp,53.0,11.5,Carnegie Mellon University,https://www.cs.cmu.edu/~morency,https://dblp.org/pers/hd/m/Morency:Louis%3DPhilippe,0,0.0
+14,Vyas Sekar  networks,53.0,10.2,Carnegie Mellon University,https://users.ece.cmu.edu/~vsekar,https://dblp.org/pers/hd/s/Sekar:Vyas,0,0.0
+15,Zhiwei Steven Wu  ml,52.0,12.8,Carnegie Mellon University,https://zstevenwu.com,https://dblp.org/pers/hd/w/Wu:Zhiwei_Steven,0,0.0
+16,Scott E. Hudson  hci,48.0,11.9,Carnegie Mellon University,http://www.cs.cmu.edu/~hudson,https://dblp.org/pers/hd/h/Hudson:Scott_E%3D,0,0.0
+17,J. Andrew Bagnell  robotics,47.0,12.3,Carnegie Mellon University,http://www.ri.cmu.edu/person.html?person_id=689,https://dblp.org/pers/hd/b/Bagnell:J%3D_Andrew,0,0.0
+18,Tom M. Mitchell  nlp,46.0,14.0,Carnegie Mellon University,http://www.cs.cmu.edu/~tom,https://dblp.org/pers/hd/m/Mitchell:Tom_M%3D,0,0.0
+19,Vipul Goyal  crypto,45.0,15.1,Carnegie Mellon University,https://www.cs.cmu.edu/~goyal,https://dblp.org/pers/hd/g/Goyal:Vipul,0,0.0
+20,Yuanzhi Li  ml,44.0,15.5,Carnegie Mellon University,https://web.stanford.edu/~yuanzhil,https://dblp.org/pers/hd/l/Li:Yuanzhi,0,0.0
+21,Jun-Yan Zhu  vision,43.0,8.8,Carnegie Mellon University,https://people.csail.mit.edu/junyanz,https://dblp.org/pers/hd/z/Zhu:Jun%3DYan,0,0.0
+22,Venkatesan Guruswami  theory,42.0,16.8,Carnegie Mellon University,http://www.cs.cmu.edu/~venkatg,https://dblp.org/pers/hd/g/Guruswami:Venkatesan,0,0.0
+23,Maria-Florina Balcan  ml,41.0,12.4,Carnegie Mellon University,https://www.cs.cmu.edu/~ninamf,https://dblp.org/pers/hd/b/Balcan:Maria%3DFlorina,0,0.0
+24,"Yiming Yang  ml  ,  nlp",41.0,10.9,Carnegie Mellon University,http://www.cs.cmu.edu/~./yiming,https://dblp.org/pers/hd/y/Yang:Yiming,0,0.0
+25,Anupam Gupta 0001  theory,40.0,12.1,Carnegie Mellon University,http://www.cs.cmu.edu/~anupamg,https://dblp.org/pers/hd/g/Gupta_0001:Anupam,1,0.09090909090909091
+26,Fei Fang  ai,37.0,8.1,Carnegie Mellon University,https://www.andrew.cmu.edu/user/feif,https://dblp.org/pers/hd/f/Fang:Fei,0,0.0
+27,Srinivasa G. Narasimhan  vision,37.0,9.6,Carnegie Mellon University,http://www.cs.cmu.edu/~srinivas,https://dblp.org/pers/hd/n/Narasimhan:Srinivasa_G%3D,0,0.0
+28,"Lorrie Faith Cranor  hci  ,  security",35.0,5.8,Carnegie Mellon University,http://lorrie.cranor.org,https://dblp.org/pers/hd/c/Cranor:Lorrie_Faith,1,0.09090909090909091
+29,Andrew Pavlo  db,34.0,7.0,Carnegie Mellon University,http://www.cs.cmu.edu/~pavlo,https://dblp.org/pers/hd/p/Pavlo:Andrew,1,0.18181818181818182
+30,Nicolas Christin  security,32.0,7.2,Carnegie Mellon University,http://www.andrew.cmu.edu/user/nicolasc,https://dblp.org/pers/hd/c/Christin:Nicolas,0,0.0
+31,Yonatan Bisk  nlp,31.0,7.7,Carnegie Mellon University,https://yonatanbisk.com,https://dblp.org/pers/hd/b/Bisk:Yonatan,0,0.0
+32,Mayank Goel  hci,31.0,6.8,Carnegie Mellon University,https://www.hcii.cmu.edu/people/mayank-goel,https://dblp.org/pers/hd/g/Goel:Mayank,0,0.0
+33,Bernhard Haeupler  theory,31.0,12.6,Carnegie Mellon University,http://www.cs.cmu.edu/~haeupler,https://dblp.org/pers/hd/h/Haeupler:Bernhard,1,0.09090909090909091
+34,Jessica K. Hodgins  graphics,31.0,7.6,Carnegie Mellon University,http://www.cs.cmu.edu/~jkh,https://dblp.org/pers/hd/h/Hodgins:Jessica_K%3D,0,0.0
+35,"Swarun Kumar  mobile  ,  networks",31.0,7.4,Carnegie Mellon University,https://swarunkumar.com,https://dblp.org/pers/hd/k/Kumar:Swarun,1,0.09090909090909091
+36,Deepak Pathak  ml,31.0,8.2,Carnegie Mellon University,https://people.eecs.berkeley.edu/~pathak,https://dblp.org/pers/hd/p/Pathak:Deepak,0,0.0
+37,Shubham Tulsiani  vision,31.0,8.3,Carnegie Mellon University,https://shubhtuls.github.io,https://dblp.org/pers/hd/t/Tulsiani:Shubham,0,0.0
+38,Alan W. Black  nlp,29.0,7.6,Carnegie Mellon University,https://www.cs.cmu.edu/~awb,https://dblp.org/pers/hd/b/Black:Alan_W%3D,0,0.0
+39,Geoffrey J. Gordon  ml,29.0,8.1,Carnegie Mellon University,http://www.cs.cmu.edu/~ggordon,https://dblp.org/pers/hd/g/Gordon:Geoffrey_J%3D,0,0.0
+40,Jason I. Hong  hci,29.0,6.7,Carnegie Mellon University,http://www.cs.cmu.edu/~jasonh,https://dblp.org/pers/hd/h/Hong:Jason_I%3D,0,0.0
+41,Christian Kästner  se,29.0,6.6,Carnegie Mellon University,https://www.cs.cmu.edu/~ckaestne,https://dblp.org/pers/hd/k/K=auml=stner:Christian,0,0.0
+42,David Held  robotics,27.0,6.9,Carnegie Mellon University,http://davheld.github.io,https://dblp.org/pers/hd/h/Held:David,0,0.0
+43,Aniket Kittur  hci,27.0,6.9,Carnegie Mellon University,https://www.hcii.cmu.edu/people/aniket-kittur,https://dblp.org/pers/hd/k/Kittur:Aniket,1,0.09090909090909091
+44,Pravesh Kothari  theory,27.0,8.1,Carnegie Mellon University,https://www.cs.cmu.edu/~praveshk,https://dblp.org/pers/hd/k/Kothari:Pravesh,1,0.09090909090909091
+45,"Benjamin Moseley  theory  ,  ml",27.0,8.0,Carnegie Mellon University,http://www.andrew.cmu.edu/user/moseleyb,https://dblp.org/pers/hd/m/Moseley:Benjamin,0,0.0
+46,Brad A. Myers  hci,27.0,7.3,Carnegie Mellon University,http://www.cs.cmu.edu/~bam,https://dblp.org/pers/hd/m/Myers:Brad_A%3D,0,0.0
+47,Lining Yao  hci,27.0,4.4,Carnegie Mellon University,http://morphingmatter.cs.cmu.edu,https://dblp.org/pers/hd/y/Yao:Lining,0,0.0
+48,Aarti Singh  ml,26.0,7.5,Carnegie Mellon University,http://www.cs.cmu.edu/~aarti,https://dblp.org/pers/hd/s/Singh:Aarti,0,0.0
+49,"David G. Andersen  networks  ,  db",24.0,5.3,Carnegie Mellon University,https://www.cs.cmu.edu/~dga,https://dblp.org/pers/hd/a/Andersen:David_G%3D,0,0.0
+50,"Christos Faloutsos  web+ir  ,  db",24.0,6.1,Carnegie Mellon University,http://www.cs.cmu.edu/~christos,https://dblp.org/pers/hd/f/Faloutsos:Christos,0,0.0
+51,"Matt Fredrikson  ml  ,  security",24.0,7.1,Carnegie Mellon University,http://www.cs.cmu.edu/~mfredrik,https://dblp.org/pers/hd/f/Fredrikson:Matt,0,0.0
+52,Bryan Parno  security,24.0,4.3,Carnegie Mellon University,https://www.cylab.cmu.edu/education/faculty/parno.html,https://dblp.org/pers/hd/p/Parno:Bryan,0,0.0
+53,Srinivasan Seshan  networks,23.0,4.8,Carnegie Mellon University,http://www.cs.cmu.edu/~srini,https://dblp.org/pers/hd/s/Seshan:Srinivasan,0,0.0
+54,Yuvraj Agarwal  hci,22.0,4.9,Carnegie Mellon University,http://www.synergylabs.org/yuvraj,https://dblp.org/pers/hd/a/Agarwal:Yuvraj,1,0.09090909090909091
+55,"Lujo Bauer  hci  ,  security",22.0,3.2,Carnegie Mellon University,http://www.ece.cmu.edu/~lbauer,https://dblp.org/pers/hd/b/Bauer:Lujo,0,0.0
+56,Katerina Fragkiadaki  vision,22.0,5.5,Carnegie Mellon University,https://www.cs.cmu.edu/~katef,https://dblp.org/pers/hd/f/Fragkiadaki:Katerina,0,0.0
+57,Phillip B. Gibbons  arch,22.0,3.7,Carnegie Mellon University,http://www.cs.cmu.edu/~gibbons,https://dblp.org/pers/hd/g/Gibbons:Phillip_B%3D,0,0.0
+58,Matthew T. Mason  robotics,22.0,7.1,Carnegie Mellon University,http://www.cs.cmu.edu/~mason,https://dblp.org/pers/hd/m/Mason:Matthew_T%3D,0,0.0
+59,Ryan O'Donnell  theory,22.0,8.2,Carnegie Mellon University,http://www.cs.cmu.edu/~odonnell,https://dblp.org/pers/hd/o/O=Donnell:Ryan,0,0.0
+60,"Norman M. Sadeh  hci  ,  nlp",22.0,4.2,Carnegie Mellon University,http://www.normsadeh.org,https://dblp.org/pers/hd/s/Sadeh:Norman_M%3D,0,0.0
+61,Ameet Talwalkar  ml,22.0,5.2,Carnegie Mellon University,https://www.cs.cmu.edu/~atalwalk,https://dblp.org/pers/hd/t/Talwalkar:Ameet,1,0.09090909090909091
+62,Bogdan Vasilescu  se,22.0,5.0,Carnegie Mellon University,http://bvasiles.github.io,https://dblp.org/pers/hd/v/Vasilescu:Bogdan,0,0.0
+63,"Ioannis Gkioulekas  graphics  ,  vision",21.0,5.5,Carnegie Mellon University,http://ri.cmu.edu/ri-faculty/ioannis-gkioulekas,https://dblp.org/pers/hd/g/Gkioulekas:Ioannis,0,0.0
+64,Brandon Lucia  arch,21.0,7.3,Carnegie Mellon University,http://brandonlucia.com,https://dblp.org/pers/hd/l/Lucia:Brandon,1,0.09090909090909091
+65,Maarten Sap  nlp,21.0,3.7,Carnegie Mellon University,https://maartensap.com,https://dblp.org/pers/hd/s/Sap:Maarten,0,0.0
+66,"Anupam Datta  security  ,  ai",20.0,4.9,Carnegie Mellon University,http://www.andrew.cmu.edu/user/danupam,https://dblp.org/pers/hd/d/Datta:Anupam,0,0.0
+67,"Matthew O'Toole  vision  ,  graphics",20.0,4.9,Carnegie Mellon University,https://www.ri.cmu.edu/ri-faculty/matthew-otoole,https://dblp.org/pers/hd/o/O=Toole:Matthew,1,0.18181818181818182
+68,Carolyn P. Rosé  nlp,20.0,5.6,Carnegie Mellon University,http://www.cs.cmu.edu/~cprose,https://dblp.org/pers/hd/r/Ros=eacute=:Carolyn_P%3D,0,0.0
+69,Jodi Forlizzi  hci,19.0,3.8,Carnegie Mellon University,https://www.hcii.cmu.edu/people/jodi-forlizzi,https://dblp.org/pers/hd/f/Forlizzi:Jodi,0,0.0
+70,Gregory R. Ganger  os,19.0,3.2,Carnegie Mellon University,https://www.ece.cmu.edu/~ganger,https://dblp.org/pers/hd/g/Ganger:Gregory_R%3D,0,0.0
+71,Carl Kingsford  comp. bio,19.0,6.7,Carnegie Mellon University,http://www.cs.cmu.edu/~ckingsf,https://dblp.org/pers/hd/k/Kingsford:Carl,0,0.0
+72,David Lindlbauer  hci,19.0,4.3,Carnegie Mellon University,https://www.davidlindlbauer.com,https://dblp.org/pers/hd/l/Lindlbauer:David,1,0.18181818181818182
+73,Jan Hoffmann 0002  pl,18.0,5.8,Carnegie Mellon University,http://www.cs.cmu.edu/~janh,https://dblp.org/pers/hd/h/Hoffmann_0002:Jan,0,0.0
+74,Nathan Beckmann  arch,18.0,4.6,Carnegie Mellon University,http://www.cs.cmu.edu/~beckmann,https://dblp.org/pers/hd/b/Beckmann:Nathan,0,0.0
+75,Keenan Crane  graphics,18.0,5.9,Carnegie Mellon University,http://www.cs.cmu.edu/~kmcrane,https://dblp.org/pers/hd/c/Crane:Keenan,1,0.18181818181818182
+76,Hartmut Geyer  robotics,18.0,6.1,Carnegie Mellon University,https://www.cs.cmu.edu/~hgeyer,https://dblp.org/pers/hd/g/Geyer:Hartmut,0,0.0
+77,James McCann  hci,18.0,4.4,Carnegie Mellon University,http://www.cs.cmu.edu/~jmccann,https://dblp.org/pers/hd/m/McCann:James,0,0.0
+78,Andrej Risteski  ml,18.0,6.4,Carnegie Mellon University,https://math.mit.edu/~risteski,https://dblp.org/pers/hd/r/Risteski:Andrej,0,0.0
+79,Sivaraman Balakrishnan  ml,17.0,3.8,Carnegie Mellon University,http://www.stat.cmu.edu/~siva,https://dblp.org/pers/hd/b/Balakrishnan:Sivaraman,0,0.0
+80,David Brumley  security,17.0,4.4,Carnegie Mellon University,https://users.ece.cmu.edu/~dbrumley,https://dblp.org/pers/hd/b/Brumley:David,0,0.0
+81,Robert E. Kraut  hci,17.0,4.9,Carnegie Mellon University,http://kraut.hciresearch.org,https://dblp.org/pers/hd/k/Kraut:Robert_E%3D,0,0.0
+82,Ragunathan Rajkumar  embedded,17.0,5.6,Carnegie Mellon University,https://users.ece.cmu.edu/~raj,https://dblp.org/pers/hd/r/Rajkumar:Ragunathan,0,0.0
+83,John Zimmerman  hci,17.0,3.5,Carnegie Mellon University,https://www.cs.cmu.edu/~johnz,https://dblp.org/pers/hd/z/Zimmerman:John,0,0.0
+84,Takeo Kanade  vision,16.0,4.5,Carnegie Mellon University,http://www.ri.cmu.edu/people/kanade_takeo.html,https://dblp.org/pers/hd/k/Kanade:Takeo,0,0.0
+85,Justine Sherry  networks,16.0,3.2,Carnegie Mellon University,http://www.justinesherry.com,https://dblp.org/pers/hd/s/Sherry:Justine,0,0.0
+86,Dimitrios Skarlatos 0002  arch,15.0,2.6,Carnegie Mellon University,https://www.cs.cmu.edu/~dskarlat,https://dblp.org/pers/hd/s/Skarlatos_0002:Dimitrios,1,0.09090909090909091
+87,Jessica Hammer  hci,15.0,3.2,Carnegie Mellon University,https://www.hcii.cmu.edu/people/jessica-hammer,https://dblp.org/pers/hd/h/Hammer:Jessica,0,0.0
+88,Virginia Smith  ml,15.0,3.4,Carnegie Mellon University,http://users.ece.cmu.edu/~smithv,https://dblp.org/pers/hd/s/Smith:Virginia,0,0.0
+89,James P. Callan  web+ir,14.0,5.3,Carnegie Mellon University,http://www.cs.cmu.edu/~callan,https://dblp.org/pers/hd/c/Callan:James_P%3D,0,0.0
+90,Daniel Fried  nlp,14.0,3.8,Carnegie Mellon University,https://dpfried.github.io,https://dblp.org/pers/hd/f/Fried:Daniel,0,0.0
+91,Christopher G. Atkeson  robotics,13.0,3.9,Carnegie Mellon University,http://www.cs.cmu.edu/~cga,https://dblp.org/pers/hd/a/Atkeson:Christopher_G%3D,0,0.0
+92,Mor Harchol-Balter  metrics,13.0,3.7,Carnegie Mellon University,http://www.cs.cmu.edu/~harchol,https://dblp.org/pers/hd/h/Harchol=Balter:Mor,0,0.0
+93,Diana Marculescu  eda,13.0,3.3,Carnegie Mellon University,https://users.ece.cmu.edu/~dianam,https://dblp.org/pers/hd/m/Marculescu:Diana,0,0.0
+94,Eric Nyberg  nlp,13.0,3.4,Carnegie Mellon University,http://www.cs.cmu.edu/~ehn,https://dblp.org/pers/hd/n/Nyberg:Eric,0,0.0
+95,"André Platzer  logic  ,  embedded",13.0,6.0,Carnegie Mellon University,http://symbolaris.com,https://dblp.org/pers/hd/p/Platzer:Andr%3Deacute%3D,0,0.0
+96,Nancy S. Pollard  robotics,13.0,3.0,Carnegie Mellon University,http://www.cs.cmu.edu/~nsp,https://dblp.org/pers/hd/p/Pollard:Nancy_S%3D,0,0.0
+97,"Nihar B. Shah  ai  ,  ml",13.0,4.3,Carnegie Mellon University,http://www.cs.cmu.edu/~nihars,https://dblp.org/pers/hd/s/Shah:Nihar_B%3D,0,0.0
+98,Laura A. Dabbish  hci,12.0,3.0,Carnegie Mellon University,http://www.lauradabbish.com,https://dblp.org/pers/hd/d/Dabbish:Laura_A%3D,0,0.0
+99,Alexandra Ion  hci,12.0,2.6,Carnegie Mellon University,http://www.alexandraion.com,https://dblp.org/pers/hd/i/Ion:Alexandra,0,0.0
+100,Guy E. Blelloch  pl,11.0,3.2,Carnegie Mellon University,http://www.cs.cmu.edu/~guyb,https://dblp.org/pers/hd/b/Blelloch:Guy_E%3D,0,0.0
+101,Claire Le Goues  se,11.0,3.2,Carnegie Mellon University,https://clairelegoues.com,https://dblp.org/pers/hd/g/Goues:Claire_Le,0,0.0
+102,Zhihao Jia  os,11.0,1.9,Carnegie Mellon University,https://www.cs.cmu.edu/~zhihaoj2,https://dblp.org/pers/hd/j/Jia:Zhihao,1,0.09090909090909091
+103,Alonzo Kelly  robotics,11.0,4.0,Carnegie Mellon University,http://www.frc.ri.cmu.edu/users/alonzo,https://dblp.org/pers/hd/k/Kelly:Alonzo,0,0.0
+104,Todd C. Mowry  arch,11.0,1.8,Carnegie Mellon University,http://www.cs.cmu.edu/~tcm,https://dblp.org/pers/hd/m/Mowry:Todd_C%3D,0,0.0
+105,Yong-Lae Park  robotics,11.0,2.5,Carnegie Mellon University,http://www.cs.cmu.edu/~ylpark,https://dblp.org/pers/hd/p/Park:Yong%3DLae,0,0.0
+106,"Bhiksha Raj  vision  ,  ml",11.0,2.9,Carnegie Mellon University,http://www.cs.cmu.edu/~bhiksha,https://dblp.org/pers/hd/r/Raj:Bhiksha,0,0.0
+107,"K. V. Rashmi  os  ,  networks",11.0,2.9,Carnegie Mellon University,http://www.cs.cmu.edu/~rvinayak,https://dblp.org/pers/hd/r/Rashmi:K%3D_V%3D,1,0.09090909090909091
+108,William Whittaker  robotics,11.0,2.8,Carnegie Mellon University,http://www.ri.cmu.edu/person.html?person_id=339,https://dblp.org/pers/hd/w/Whittaker:William,0,0.0
+109,"Jian Ma 0004  comp. bio  ,  ml",10.0,2.6,Carnegie Mellon University,http://www.cs.cmu.edu/~jianma,https://dblp.org/pers/hd/m/Ma_0004:Jian,0,0.0
+110,Umut A. Acar  pl,10.0,2.4,Carnegie Mellon University,http://www.umut-acar.org,https://dblp.org/pers/hd/a/Acar:Umut_A%3D,0,0.0
+111,Geoff Kaufman  hci,10.0,2.3,Carnegie Mellon University,https://www.hcii.cmu.edu/people/geoff-kaufman,https://dblp.org/pers/hd/k/Kaufman:Geoff,0,0.0
+112,Robert Harper 0001  pl,9.0,3.8,Carnegie Mellon University,http://www.cs.cmu.edu/~rwh,https://dblp.org/pers/hd/h/Harper_0001:Robert,0,0.0
+113,Alessandro Acquisti  hci,9.0,1.5,Carnegie Mellon University,http://www.heinz.cmu.edu/~acquisti,https://dblp.org/pers/hd/a/Acquisti:Alessandro,0,0.0
+114,Henny Admoni  robotics,9.0,2.3,Carnegie Mellon University,https://www.ri.cmu.edu/ri-faculty/henny-admoni,https://dblp.org/pers/hd/a/Admoni:Henny,0,0.0
+115,James D. Herbsleb  se,9.0,3.4,Carnegie Mellon University,http://herbsleb.org,https://dblp.org/pers/hd/h/Herbsleb:James_D%3D,0,0.0
+116,Sara B. Kiesler  hci,9.0,2.3,Carnegie Mellon University,https://www.cs.cmu.edu/~kiesler,https://dblp.org/pers/hd/k/Kiesler:Sara_B%3D,0,0.0
+117,Kenneth R. Koedinger  hci,9.0,2.4,Carnegie Mellon University,http://pact.cs.cmu.edu/koedinger.html,https://dblp.org/pers/hd/k/Koedinger:Kenneth_R%3D,0,0.0
+118,Gary L. Miller  theory,9.0,2.4,Carnegie Mellon University,https://www.cs.cmu.edu/~glmiller,https://dblp.org/pers/hd/m/Miller:Gary_L%3D,0,0.0
+119,Emma Strubell  nlp,9.0,2.3,Carnegie Mellon University,https://people.cs.umass.edu/~strubell,https://dblp.org/pers/hd/s/Strubell:Emma,0,0.0
+120,Tianqi Chen  ml,8.0,1.7,Carnegie Mellon University,https://tqchen.com,https://dblp.org/pers/hd/c/Chen:Tianqi,0,0.0
+121,"Vincent J. Hellendoorn  se  ,  ml",8.0,2.1,Carnegie Mellon University,https://vhellendoorn.github.io,https://dblp.org/pers/hd/h/Hellendoorn:Vincent_J%3D,1,0.09090909090909091
+122,"Eunsuk Kang  se  ,  eda",8.0,2.0,Carnegie Mellon University,https://eskang.github.io,https://dblp.org/pers/hd/k/Kang:Eunsuk,0,0.0
+123,"Wenting Zheng  security  ,  networks  ,  os",8.0,1.6,Carnegie Mellon University,https://wzheng.github.io,https://dblp.org/pers/hd/z/Zheng:Wenting,0,0.0
+124,"Jonathan Aldrich  pl  ,  se",7.0,1.4,Carnegie Mellon University,http://www.cs.cmu.edu/~./aldrich,https://dblp.org/pers/hd/a/Aldrich:Jonathan,0,0.0
+125,Kathleen M. Carley  nlp,7.0,3.0,Carnegie Mellon University,http://www.casos.cs.cmu.edu/bios/carley/carley.html,https://dblp.org/pers/hd/c/Carley:Kathleen_M%3D,0,0.0
+126,Patrick Carrington  hci,7.0,1.3,Carnegie Mellon University,http://www.patrickcarrington.com,https://dblp.org/pers/hd/c/Carrington:Patrick,0,0.0
+127,Virgil D. Gligor  security,7.0,2.3,Carnegie Mellon University,https://users.ece.cmu.edu/~virgil,https://dblp.org/pers/hd/g/Gligor:Virgil_D%3D,0,0.0
+128,Amy Ogan  hci,7.0,1.1,Carnegie Mellon University,https://www.hcii.cmu.edu/people/amy-ogan,https://dblp.org/pers/hd/o/Ogan:Amy,0,0.0
+129,Peter Steenkiste  networks,7.0,1.3,Carnegie Mellon University,http://www.cs.cmu.edu/~prs,https://dblp.org/pers/hd/s/Steenkiste:Peter,0,0.0
+130,"George Amvrosiadis  hpc  ,  os",6.0,1.3,Carnegie Mellon University,http://www.ece.cmu.edu/~gamvrosi,https://dblp.org/pers/hd/a/Amvrosiadis:George,0,0.0
+131,Ziv Bar-Joseph  comp. bio,6.0,2.0,Carnegie Mellon University,http://www.cs.cmu.edu/~zivbj,https://dblp.org/pers/hd/b/Bar=Joseph:Ziv,0,0.0
+132,James C. Hoe  arch,6.0,1.3,Carnegie Mellon University,http://users.ece.cmu.edu/~jhoe,https://dblp.org/pers/hd/h/Hoe:James_C%3D,0,0.0
+133,"Levent Burak Kara  graphics  ,  hci",6.0,2.0,Carnegie Mellon University,http://vdel.me.cmu.edu,https://dblp.org/pers/hd/k/Kara:Levent_Burak,0,0.0
+134,Kemal Oflazer  nlp,6.0,1.6,Carnegie Mellon University,https://www.andrew.cmu.edu/user/ko,https://dblp.org/pers/hd/o/Oflazer:Kemal,0,0.0
+135,"Bruno Sinopoli  embedded  ,  networks",6.0,1.2,Carnegie Mellon University,https://users.ece.cmu.edu/~brunos,https://dblp.org/pers/hd/s/Sinopoli:Bruno,0,0.0
+136,Karl Crary  pl,5.0,4.0,Carnegie Mellon University,https://www.cs.cmu.edu/~crary,https://dblp.org/pers/hd/c/Crary:Karl,0,0.0
+137,Changliu Liu  robotics,5.0,1.6,Carnegie Mellon University,https://www.ri.cmu.edu/ri-faculty/changliu-liu,https://dblp.org/pers/hd/l/Liu:Changliu,0,0.0
+138,Radu Marculescu  eda,5.0,1.1,Carnegie Mellon University,https://www.ece.cmu.edu/directory/department/faculty/M/Radu_Marculescu_109.html,https://dblp.org/pers/hd/m/Marculescu:Radu,1,0.09090909090909091
+139,Illah R. Nourbakhsh  ai,5.0,1.5,Carnegie Mellon University,http://www.cs.cmu.edu/~illah,https://dblp.org/pers/hd/n/Nourbakhsh:Illah_R%3D,0,0.0
+140,Rohan Padhye  se,5.0,1.5,Carnegie Mellon University,https://rohan.padhye.org,https://dblp.org/pers/hd/p/Padhye:Rohan,0,0.0
+141,Ronald Rosenfeld  hci,5.0,0.9,Carnegie Mellon University,http://www.cs.cmu.edu/~roni,https://dblp.org/pers/hd/r/Rosenfeld:Ronald,0,0.0
+142,Alan M. Frieze  theory,4.0,1.8,Carnegie Mellon University,https://www.math.cmu.edu/~af1p,https://dblp.org/pers/hd/f/Frieze:Alan_M%3D,0,0.0
+143,David Garlan  se,4.0,1.0,Carnegie Mellon University,https://www.cs.cmu.edu/~garlan,https://dblp.org/pers/hd/g/Garlan:David,0,0.0
+144,Mahadev Satyanarayanan  mobile,4.0,0.9,Carnegie Mellon University,https://www.cs.cmu.edu/~satya,https://dblp.org/pers/hd/s/Satyanarayanan:Mahadev,0,0.0
+145,Daniel P. Siewiorek  hci,4.0,0.9,Carnegie Mellon University,https://www.cs.cmu.edu/~dps,https://dblp.org/pers/hd/s/Siewiorek:Daniel_P%3D,0,0.0
+146,Vincent Aleven  hci,3.0,0.8,Carnegie Mellon University,http://www.cs.cmu.edu/~./aleven,https://dblp.org/pers/hd/a/Aleven:Vincent,1,0.09090909090909091
+147,Travis D. Breaux  se,3.0,0.5,Carnegie Mellon University,https://www.cs.cmu.edu/~breaux,https://dblp.org/pers/hd/b/Breaux:Travis_D%3D,0,0.0
+148,Justine Cassell,3.0,0.8,Carnegie Mellon University,https://www.hcii.cmu.edu/people/justine-cassell,https://dblp.org/pers/hd/c/Cassell:Justine,0,0.0
+149,Tai Sing Lee  ml,3.0,0.7,Carnegie Mellon University,http://www.cnbc.cmu.edu/~tai,https://dblp.org/pers/hd/l/Lee:Tai_Sing,0,0.0
+150,Gary K. Fedder,2.0,0.4,Carnegie Mellon University,https://users.ece.cmu.edu/~fedder,https://dblp.org/pers/hd/f/Fedder:Gary_K%3D,0,0.0
+151,Seth Copen Goldstein  robotics,2.0,0.5,Carnegie Mellon University,http://www.cs.cmu.edu/~seth,https://dblp.org/pers/hd/g/Goldstein:Seth_Copen,0,0.0
+152,Seyoung Kim  ml,2.0,1.0,Carnegie Mellon University,http://www.cs.cmu.edu/~sssykim,https://dblp.org/pers/hd/k/Kim:Seyoung,0,0.0
+153,Christopher J. Langmead  comp. bio,2.0,0.6,Carnegie Mellon University,http://www.cs.cmu.edu/~cjl,https://dblp.org/pers/hd/l/Langmead:Christopher_J%3D,0,0.0
+154,Heather Miller,2.0,0.3,Carnegie Mellon University,http://heather.miller.am,https://dblp.org/pers/hd/m/Miller:Heather,0,0.0
+155,Robert F. Murphy  comp. bio,2.0,0.6,Carnegie Mellon University,http://murphylab.web.cmu.edu,https://dblp.org/pers/hd/m/Murphy:Robert_F%3D,0,0.0
+156,Frank Pfenning,2.0,0.7,Carnegie Mellon University,http://www.cs.cmu.edu/~fp,https://dblp.org/pers/hd/p/Pfenning:Frank,0,0.0
+157,Stephen D. Brookes,1.0,0.3,Carnegie Mellon University,http://www.cs.cmu.edu/~brookes,https://dblp.org/pers/hd/b/Brookes:Stephen_D%3D,0,0.0
+158,Randal E. Bryant,1.0,0.1,Carnegie Mellon University,http://www.cs.cmu.edu/~bryant,https://dblp.org/pers/hd/b/Bryant:Randal_E%3D,0,0.0
+159,Michael A. Erdmann,1.0,0.1,Carnegie Mellon University,http://www.cs.cmu.edu/~me,https://dblp.org/pers/hd/e/Erdmann:Michael_A%3D,0,0.0
+160,Rayid Ghani,1.0,0.3,Carnegie Mellon University,http://www.rayidghani.com,https://dblp.org/pers/hd/g/Ghani:Rayid,0,0.0
+161,Bruce H. Krogh,1.0,0.2,Carnegie Mellon University,https://www.ece.cmu.edu/directory/details/89,https://dblp.org/pers/hd/k/Krogh:Bruce_H%3D,1,0.09090909090909091
+162,Jack Mostow,1.0,0.5,Carnegie Mellon University,http://www.cs.cmu.edu/~mostow,https://dblp.org/pers/hd/m/Mostow:Jack,0,0.0
+163,Priya Narasimhan,1.0,0.2,Carnegie Mellon University,http://www.cs.cmu.edu/~priya,https://dblp.org/pers/hd/n/Narasimhan:Priya,0,0.0
+164,Dana S. Scott,1.0,0.2,Carnegie Mellon University,http://www.cs.cmu.edu/~scott,https://dblp.org/pers/hd/s/Scott:Dana_S%3D,0,0.0
+165,John C. Stamper,1.0,0.3,Carnegie Mellon University,https://www.hcii.cmu.edu/people/john-stamper,https://dblp.org/pers/hd/s/Stamper:John_C%3D,0,0.0
+166,"Jiawei Han 0001  nlp  ,  web+ir",106.0,19.8,Univ. of Illinois at Urbana-Champaign,http://hanj.cs.illinois.edu,https://dblp.org/pers/hd/h/Han_0001:Jiawei,0,0.0
+167,"Alexander G. Schwing  vision  ,  ml",95.0,26.3,Univ. of Illinois at Urbana-Champaign,http://www.alexander-schwing.de,https://dblp.org/pers/hd/s/Schwing:Alexander_G%3D,1,0.09090909090909091
+168,Heng Ji  nlp,93.0,20.7,Univ. of Illinois at Urbana-Champaign,http://blender.cs.illinois.edu/hengji.html,https://dblp.org/pers/hd/j/Ji:Heng,0,0.0
+169,Bo Li 0026  ml,66.0,12.8,Univ. of Illinois at Urbana-Champaign,http://boli.cs.illinois.edu,https://dblp.org/pers/hd/l/Li_0026:Bo,1,0.09090909090909091
+170,Josep Torrellas  arch,58.0,14.3,Univ. of Illinois at Urbana-Champaign,http://iacoma.cs.uiuc.edu/josep/torrellas.html,https://dblp.org/pers/hd/t/Torrellas:Josep,0,0.0
+171,Kris Hauser  robotics,47.0,20.7,Univ. of Illinois at Urbana-Champaign,http://cs.illinois.edu/directory/profile/kkhauser,https://dblp.org/pers/hd/h/Hauser:Kris,1,0.18181818181818182
+172,Jimeng Sun  ai,44.0,9.2,Univ. of Illinois at Urbana-Champaign,http://sunlab.org,https://dblp.org/pers/hd/s/Sun:Jimeng,0,0.0
+173,Nam Sung Kim  arch,41.0,8.2,Univ. of Illinois at Urbana-Champaign,https://fast.ece.illinois.edu,https://dblp.org/pers/hd/k/Kim:Nam_Sung,0,0.0
+174,Nancy M. Amato  robotics,39.0,10.5,Univ. of Illinois at Urbana-Champaign,https://parasollab.web.illinois.edu/people/amato,https://dblp.org/pers/hd/a/Amato:Nancy_M%3D,0,0.0
+175,Gang Wang 0011  security,38.0,8.0,Univ. of Illinois at Urbana-Champaign,http://people.cs.vt.edu/gangwang,https://dblp.org/pers/hd/w/Wang_0011:Gang,0,0.0
+176,Arindam Banerjee 0001  ml,37.0,13.7,Univ. of Illinois at Urbana-Champaign,https://arindam.cs.illinois.edu,https://dblp.org/pers/hd/b/Banerjee_0001:Arindam,0,0.0
+177,Shenlong Wang  vision,37.0,7.6,Univ. of Illinois at Urbana-Champaign,http://shenlong.web.illinois.edu,https://dblp.org/pers/hd/w/Wang:Shenlong,1,0.09090909090909091
+178,Christopher W. Fletcher  arch,35.0,6.8,Univ. of Illinois at Urbana-Champaign,http://cwfletcher.net,https://dblp.org/pers/hd/f/Fletcher:Christopher_W%3D,0,0.0
+179,Jian Peng 0001  ml,34.0,7.9,Univ. of Illinois at Urbana-Champaign,http://jianpeng.web.engr.illinois.edu,https://dblp.org/pers/hd/p/Peng_0001:Jian,1,0.18181818181818182
+180,"Hanghang Tong  web+ir  ,  ai",34.0,7.7,Univ. of Illinois at Urbana-Champaign,http://tonghanghang.org,https://dblp.org/pers/hd/t/Tong:Hanghang,0,0.0
+181,Han Zhao 0002  ml,33.0,8.8,Univ. of Illinois at Urbana-Champaign,https://hanzhaoml.github.io,https://dblp.org/pers/hd/z/Zhao_0002:Han,0,0.0
+182,Romit Roy Choudhury  mobile,33.0,9.0,Univ. of Illinois at Urbana-Champaign,http://croy.web.engr.illinois.edu,https://dblp.org/pers/hd/c/Choudhury:Romit_Roy,0,0.0
+183,"Wen-Mei W. Hwu  arch  ,  hpc",33.0,5.3,Univ. of Illinois at Urbana-Champaign,https://www.ece.illinois.edu/directory/profile/w-hwu,https://dblp.org/pers/hd/h/Hwu:Wen%3DMei_W%3D,1,0.18181818181818182
+184,Derek Hoiem  vision,32.0,9.9,Univ. of Illinois at Urbana-Champaign,http://dhoiem.cs.illinois.edu,https://dblp.org/pers/hd/h/Hoiem:Derek,0,0.0
+185,Tianyin Xu  os,32.0,5.0,Univ. of Illinois at Urbana-Champaign,https://tianyin.github.io,https://dblp.org/pers/hd/x/Xu:Tianyin,1,0.09090909090909091
+186,"Tarek F. Abdelzaher  embedded  ,  web+ir  ,  hci",31.0,4.7,Univ. of Illinois at Urbana-Champaign,http://web.engr.illinois.edu/~zaher,https://dblp.org/pers/hd/a/Abdelzaher:Tarek_F%3D,0,0.0
+187,Deming Chen  eda,30.0,6.0,Univ. of Illinois at Urbana-Champaign,https://www.ece.illinois.edu/directory/profile/dchen,https://dblp.org/pers/hd/c/Chen:Deming,1,0.18181818181818182
+188,David A. Forsyth  vision,30.0,9.6,Univ. of Illinois at Urbana-Champaign,http://luthuli.cs.uiuc.edu/~daf,https://dblp.org/pers/hd/f/Forsyth:David_A%3D,0,0.0
+189,Yu-Xiong Wang  vision,30.0,8.9,Univ. of Illinois at Urbana-Champaign,https://yxw.web.illinois.edu,https://dblp.org/pers/hd/w/Wang:Yu%3DXiong,1,0.18181818181818182
+190,Karrie Karahalios  hci,29.0,6.6,Univ. of Illinois at Urbana-Champaign,https://cs.illinois.edu/directory/profile/kkarahal,https://dblp.org/pers/hd/k/Karahalios:Karrie,1,0.18181818181818182
+191,Oluwasanmi Koyejo  ml,29.0,7.9,Univ. of Illinois at Urbana-Champaign,http://sanmi.cs.illinois.edu,https://dblp.org/pers/hd/k/Koyejo:Oluwasanmi,1,0.18181818181818182
+192,Saurabh Gupta 0001  vision,28.0,6.4,Univ. of Illinois at Urbana-Champaign,http://saurabhg.web.illinois.edu,https://dblp.org/pers/hd/g/Gupta_0001:Saurabh,0,0.0
+193,Svetlana Lazebnik  vision,28.0,8.5,Univ. of Illinois at Urbana-Champaign,http://slazebni.cs.illinois.edu,https://dblp.org/pers/hd/l/Lazebnik:Svetlana,0,0.0
+194,ChengXiang Zhai  web+ir,28.0,7.5,Univ. of Illinois at Urbana-Champaign,http://czhai.cs.illinois.edu,https://dblp.org/pers/hd/z/Zhai:ChengXiang,0,0.0
+195,Timothy Bretl  robotics,26.0,8.9,Univ. of Illinois at Urbana-Champaign,http://bretl.csl.illinois.edu,https://dblp.org/pers/hd/b/Bretl:Timothy,0,0.0
+196,Dakshita Khurana  crypto,25.0,7.7,Univ. of Illinois at Urbana-Champaign,https://www.dakshitakhurana.com,https://dblp.org/pers/hd/k/Khurana:Dakshita,0,0.0
+197,Mahesh Viswanathan 0001  logic,24.0,7.1,Univ. of Illinois at Urbana-Champaign,http://vmahesh.cs.illinois.edu,https://dblp.org/pers/hd/v/Viswanathan_0001:Mahesh,0,0.0
+198,Saugata Ghose  arch,24.0,3.0,Univ. of Illinois at Urbana-Champaign,https://ghose.web.illinois.edu,https://dblp.org/pers/hd/g/Ghose:Saugata,0,0.0
+199,Lingming Zhang  se,24.0,5.7,Univ. of Illinois at Urbana-Champaign,http://lingming.cs.illinois.edu,https://dblp.org/pers/hd/z/Zhang:Lingming,0,0.0
+200,Kirill Levchenko  security,23.0,3.7,Univ. of Illinois at Urbana-Champaign,http://klevchen.ece.illinois.edu,https://dblp.org/pers/hd/l/Levchenko:Kirill,0,0.0
+201,Adam Bates 0001  security,21.0,4.1,Univ. of Illinois at Urbana-Champaign,http://adambates.org,https://dblp.org/pers/hd/b/Bates_0001:Adam,0,0.0
+202,Nan Jiang 0008  ml,21.0,5.9,Univ. of Illinois at Urbana-Champaign,http://nanjiang.cs.illinois.edu,https://dblp.org/pers/hd/j/Jiang_0008:Nan,0,0.0
+203,"Kevin Chen-Chuan Chang  web+ir  ,  db",21.0,4.7,Univ. of Illinois at Urbana-Champaign,https://cs.illinois.edu/directory/profile/kcchang,https://dblp.org/pers/hd/c/Chang:Kevin_Chen%3DChuan,1,0.18181818181818182
+204,Ling Ren 0001  security,20.0,5.3,Univ. of Illinois at Urbana-Champaign,https://sites.google.com/view/renling,https://dblp.org/pers/hd/r/Ren_0001:Ling,0,0.0
+205,Jian Huang 0006  arch,20.0,4.6,Univ. of Illinois at Urbana-Champaign,http://jianh.web.engr.illinois.edu,https://dblp.org/pers/hd/h/Huang_0006:Jian,1,0.09090909090909091
+206,Timothy M. Chan  theory,20.0,11.1,Univ. of Illinois at Urbana-Champaign,http://tmc.web.engr.illinois.edu,https://dblp.org/pers/hd/c/Chan:Timothy_M%3D,0,0.0
+207,Chandra Chekuri  theory,20.0,9.7,Univ. of Illinois at Urbana-Champaign,http://chekuri.cs.illinois.edu,https://dblp.org/pers/hd/c/Chekuri:Chandra,0,0.0
+208,Jingrui He  ai,19.0,5.4,Univ. of Illinois at Urbana-Champaign,https://www.hejingrui.org,https://dblp.org/pers/hd/h/He:Jingrui,0,0.0
+209,Steven M. LaValle  robotics,19.0,6.4,Univ. of Illinois at Urbana-Champaign,http://oulu.cs.illinois.edu,https://dblp.org/pers/hd/l/LaValle:Steven_M%3D,0,0.0
+210,Darko Marinov  se,19.0,3.7,Univ. of Illinois at Urbana-Champaign,http://mir.cs.illinois.edu,https://dblp.org/pers/hd/m/Marinov:Darko,0,0.0
+211,"Ruta Mehta  theory  ,  ecom",19.0,6.2,Univ. of Illinois at Urbana-Champaign,https://cs.illinois.edu/directory/profile/rutameht,https://dblp.org/pers/hd/m/Mehta:Ruta,1,0.18181818181818182
+212,"Rakesh Kumar 0002  arch  ,  eda",18.0,4.7,Univ. of Illinois at Urbana-Champaign,https://www.ece.illinois.edu/directory/profile/rakeshk,https://dblp.org/pers/hd/k/Kumar_0002:Rakesh,1,0.18181818181818182
+213,Laxmikant V. Kalé  hpc,18.0,5.3,Univ. of Illinois at Urbana-Champaign,http://charm.cs.uiuc.edu/~kale,https://dblp.org/pers/hd/k/Kal=eacute=:Laxmikant_V%3D,0,0.0
+214,Brighten Godfrey  networks,17.0,3.9,Univ. of Illinois at Urbana-Champaign,http://pbg.cs.illinois.edu,https://dblp.org/pers/hd/g/Godfrey:Brighten,0,0.0
+215,"P. Madhusudan  pl  ,  logic",17.0,4.7,Univ. of Illinois at Urbana-Champaign,http://madhu.cs.illinois.edu,https://dblp.org/pers/hd/m/Madhusudan:P%3D,0,0.0
+216,"Gagandeep Singh 0001  pl  ,  ml",16.0,4.0,Univ. of Illinois at Urbana-Champaign,https://ggndpsngh.github.io,https://dblp.org/pers/hd/s/Singh_0001:Gagandeep,0,0.0
+217,Carl A. Gunter  security,16.0,3.0,Univ. of Illinois at Urbana-Champaign,http://web.engr.illinois.edu/~cgunter,https://dblp.org/pers/hd/g/Gunter:Carl_A%3D,0,0.0
+218,Matus Telgarsky  ml,16.0,7.1,Univ. of Illinois at Urbana-Champaign,http://mjt.cs.illinois.edu,https://dblp.org/pers/hd/t/Telgarsky:Matus,0,0.0
+219,Ranjitha Kumar  hci,15.0,3.1,Univ. of Illinois at Urbana-Champaign,https://cs.illinois.edu/directory/profile/ranjitha,https://dblp.org/pers/hd/k/Kumar:Ranjitha,1,0.18181818181818182
+220,"Sasa Misailovic  pl  ,  se",15.0,3.5,Univ. of Illinois at Urbana-Champaign,http://illinois.edu/calendar/detail/2568/32614650,https://dblp.org/pers/hd/m/Misailovic:Sasa,0,0.0
+221,Lui Sha  embedded,15.0,3.0,Univ. of Illinois at Urbana-Champaign,https://cs.illinois.edu/directory/profile/lrs,https://dblp.org/pers/hd/s/Sha:Lui,1,0.18181818181818182
+222,"Saurabh Sinha  eda  ,  se",15.0,3.2,Univ. of Illinois at Urbana-Champaign,http://www.sinhalab.net/sinha-s-home,https://dblp.org/pers/hd/s/Sinha:Saurabh,0,0.0
+223,Deepak Vasisht  networks,15.0,3.8,Univ. of Illinois at Urbana-Champaign,https://deepakvasisht.com,https://dblp.org/pers/hd/v/Vasisht:Deepak,0,0.0
+224,Wai-Tat Fu  hci,14.0,4.7,Univ. of Illinois at Urbana-Champaign,http://web.engr.illinois.edu/~wfu,https://dblp.org/pers/hd/f/Fu:Wai%3DTat,0,0.0
+225,Mark Hasegawa-Johnson  ml,14.0,2.9,Univ. of Illinois at Urbana-Champaign,http://www.ifp.illinois.edu/~hasegawa,https://dblp.org/pers/hd/h/Hasegawa=Johnson:Mark,0,0.0
+226,Andrew Miller 0001  security,13.0,2.5,Univ. of Illinois at Urbana-Champaign,http://soc1024.ece.illinois.edu,https://dblp.org/pers/hd/m/Miller_0001:Andrew,0,0.0
+227,Brian P. Bailey  hci,13.0,3.0,Univ. of Illinois at Urbana-Champaign,https://cs.illinois.edu/directory/profile/bpbailey,https://dblp.org/pers/hd/b/Bailey:Brian_P%3D,1,0.18181818181818182
+228,Marco Caccamo  embedded,13.0,2.6,Univ. of Illinois at Urbana-Champaign,http://pertsserver.cs.uiuc.edu/~mcaccamo,https://dblp.org/pers/hd/c/Caccamo:Marco,0,0.0
+229,"Grigore Rosu  pl  ,  logic",13.0,4.3,Univ. of Illinois at Urbana-Champaign,https://fsl.cs.illinois.edu/people/grigore-rosu,https://dblp.org/pers/hd/r/Rosu:Grigore,0,0.0
+230,"Sayan Mitra  logic  ,  embedded",12.0,2.9,Univ. of Illinois at Urbana-Champaign,http://mitras.ece.illinois.edu,https://dblp.org/pers/hd/m/Mitra:Sayan,0,0.0
+231,Sariel Har-Peled  theory,11.0,4.8,Univ. of Illinois at Urbana-Champaign,https://cs.illinois.edu/directory/profile/sariel,https://dblp.org/pers/hd/h/Har=Peled:Sariel,1,0.18181818181818182
+232,"Julia Hockenmaier  nlp  ,  vision",11.0,3.5,Univ. of Illinois at Urbana-Champaign,http://juliahmr.cs.illinois.edu,https://dblp.org/pers/hd/h/Hockenmaier:Julia,0,0.0
+233,Ravishankar K. Iyer  ml,11.0,2.0,Univ. of Illinois at Urbana-Champaign,https://www.ece.illinois.edu/directory/profile/rkiyer,https://dblp.org/pers/hd/i/Iyer:Ravishankar_K%3D,1,0.18181818181818182
+234,Daniel Kang  db,11.0,2.5,Univ. of Illinois at Urbana-Champaign,https://ddkang.github.io,https://dblp.org/pers/hd/k/Kang:Daniel,0,0.0
+235,Olgica Milenkovic  ml,11.0,4.0,Univ. of Illinois at Urbana-Champaign,https://www.ece.illinois.edu/directory/profile/milenkov,https://dblp.org/pers/hd/m/Milenkovic:Olgica,1,0.18181818181818182
+236,Sarita V. Adve  arch,10.0,2.9,Univ. of Illinois at Urbana-Champaign,http://rsim.cs.illinois.edu/~sadve,https://dblp.org/pers/hd/a/Adve:Sarita_V%3D,0,0.0
+237,Vikram S. Adve  arch,10.0,2.2,Univ. of Illinois at Urbana-Champaign,https://vikram.cs.illinois.edu,https://dblp.org/pers/hd/a/Adve:Vikram_S%3D,1,0.09090909090909091
+238,Radhika Mittal  networks,10.0,2.0,Univ. of Illinois at Urbana-Champaign,http://radhikam.web.illinois.edu,https://dblp.org/pers/hd/m/Mittal:Radhika,0,0.0
+239,Yang Wang 0005  hci,9.0,2.3,Univ. of Illinois at Urbana-Champaign,https://yangwang.ischool.illinois.edu,https://dblp.org/pers/hd/w/Wang_0005:Yang,0,0.0
+240,Michael A. Forbes  theory,9.0,4.4,Univ. of Illinois at Urbana-Champaign,http://miforbes.cs.illinois.edu,https://dblp.org/pers/hd/f/Forbes:Michael_A%3D,0,0.0
+241,Marc Snir  hpc,9.0,2.3,Univ. of Illinois at Urbana-Champaign,http://snir.cs.illinois.edu,https://dblp.org/pers/hd/s/Snir:Marc,0,0.0
+242,Shobha Vasudevan  eda,9.0,2.5,Univ. of Illinois at Urbana-Champaign,http://faculty.ece.illinois.edu/shobhav,https://dblp.org/pers/hd/v/Vasudevan:Shobha,0,0.0
+243,Jeff Erickson 0001  theory,8.0,2.5,Univ. of Illinois at Urbana-Champaign,http://jeffe.cs.illinois.edu,https://dblp.org/pers/hd/e/Erickson_0001:Jeff,0,0.0
+244,"Lav R. Varshney  ml  ,  ai",8.0,1.9,Univ. of Illinois at Urbana-Champaign,http://varshney.web.engr.illinois.edu,https://dblp.org/pers/hd/v/Varshney:Lav_R%3D,0,0.0
+245,Reyhaneh Jabbarvand Behrouz  se,7.0,2.2,Univ. of Illinois at Urbana-Champaign,http://reyhaneh.cs.illinois.edu,https://dblp.org/pers/hd/b/Behrouz:Reyhaneh_Jabbarvand,0,0.0
+246,Nikita Borisov  security,7.0,1.4,Univ. of Illinois at Urbana-Champaign,https://www.ece.illinois.edu/directory/profile/nikita,https://dblp.org/pers/hd/b/Borisov:Nikita,1,0.18181818181818182
+247,Karthekeyan Chandrasekaran  theory,7.0,2.6,Univ. of Illinois at Urbana-Champaign,http://karthik.ise.illinois.edu,https://dblp.org/pers/hd/c/Chandrasekaran:Karthekeyan,0,0.0
+248,Mohammed El-Kebir  comp. bio,7.0,2.3,Univ. of Illinois at Urbana-Champaign,http://www.el-kebir.net,https://dblp.org/pers/hd/e/El=Kebir:Mohammed,0,0.0
+249,"Indranil Gupta  ml  ,  db",7.0,1.5,Univ. of Illinois at Urbana-Champaign,http://indy.cs.illinois.edu,https://dblp.org/pers/hd/g/Gupta:Indranil,1,0.09090909090909091
+250,Klara Nahrstedt  hci,7.0,2.1,Univ. of Illinois at Urbana-Champaign,https://cs.illinois.edu/directory/profile/klara,https://dblp.org/pers/hd/n/Nahrstedt:Klara,1,0.18181818181818182
+251,"Elahe Soltanaghai  mobile  ,  hci",7.0,1.6,Univ. of Illinois at Urbana-Champaign,https://elahe.web.illinois.edu,https://dblp.org/pers/hd/s/Soltanaghai:Elahe,0,0.0
+252,Hari Sundaram  web+ir,7.0,1.6,Univ. of Illinois at Urbana-Champaign,http://sundaram.cs.illinois.edu,https://dblp.org/pers/hd/s/Sundaram:Hari,0,0.0
+253,Ramnatthan Alagappan  os,6.0,1.1,Univ. of Illinois at Urbana-Champaign,https://ramalagappan.github.io,https://dblp.org/pers/hd/a/Alagappan:Ramnatthan,1,0.09090909090909091
+254,Aishwarya Ganesan  os,6.0,1.1,Univ. of Illinois at Urbana-Champaign,https://aishwaryaganesan.github.io,https://dblp.org/pers/hd/g/Ganesan:Aishwarya,0,0.0
+255,Yih-Chun Hu  security,6.0,1.4,Univ. of Illinois at Urbana-Champaign,https://www.ece.illinois.edu/directory/profile/yihchun,https://dblp.org/pers/hd/h/Hu:Yih%3DChun,1,0.18181818181818182
+256,"Charith Mendis  ml  ,  arch  ,  pl",6.0,1.4,Univ. of Illinois at Urbana-Champaign,https://charithmendis.com,https://dblp.org/pers/hd/m/Mendis:Charith,0,0.0
+257,Yongjoo Park  db,6.0,1.6,Univ. of Illinois at Urbana-Champaign,https://yongjoopark.com,https://dblp.org/pers/hd/p/Park:Yongjoo,1,0.09090909090909091
+258,Tandy J. Warnow  comp. bio,6.0,2.3,Univ. of Illinois at Urbana-Champaign,https://tandy.cs.illinois.edu,https://dblp.org/pers/hd/w/Warnow:Tandy_J%3D,1,0.09090909090909091
+259,Roy H. Campbell  metrics,5.0,0.9,Univ. of Illinois at Urbana-Champaign,http://cs.illinois.edu/directory/profile/rhc,https://dblp.org/pers/hd/c/Campbell:Roy_H%3D,1,0.18181818181818182
+260,William Gropp  hpc,5.0,1.4,Univ. of Illinois at Urbana-Champaign,http://wgropp.cs.illinois.edu,https://dblp.org/pers/hd/g/Gropp:William,1,0.09090909090909091
+261,"Craig B. Zilles  arch  ,  hci",5.0,1.8,Univ. of Illinois at Urbana-Champaign,http://zilles.cs.illinois.edu,https://dblp.org/pers/hd/z/Zilles:Craig_B%3D,0,0.0
+262,Lawrence Rauchwerger  hpc,4.0,1.4,Univ. of Illinois at Urbana-Champaign,https://parasollab.web.illinois.edu/people/rwerger,https://dblp.org/pers/hd/r/Rauchwerger:Lawrence,0,0.0
+263,"Paris Smaragdis  ml  ,  hci",4.0,1.4,Univ. of Illinois at Urbana-Champaign,http://paris.cs.illinois.edu,https://dblp.org/pers/hd/s/Smaragdis:Paris,0,0.0
+264,Yun Huang 0003  hci,2.0,0.5,Univ. of Illinois at Urbana-Champaign,https://ischool.illinois.edu/people/yun-huang,https://dblp.org/pers/hd/h/Huang_0003:Yun,1,0.09090909090909091
+265,Gul A. Agha,2.0,0.8,Univ. of Illinois at Urbana-Champaign,https://cs.illinois.edu/directory/profile/agha,https://dblp.org/pers/hd/a/Agha:Gul_A%3D,1,0.18181818181818182
+266,Geir E. Dullerud,2.0,0.3,Univ. of Illinois at Urbana-Champaign,https://mechanical.illinois.edu/directory/faculty/dullerud,https://dblp.org/pers/hd/d/Dullerud:Geir_E%3D,1,0.18181818181818182
+267,Mani Golparvar Fard  vision,2.0,0.5,Univ. of Illinois at Urbana-Champaign,http://cee.illinois.edu/directory/profile/mgolpar,https://dblp.org/pers/hd/f/Fard:Mani_Golparvar,1,0.18181818181818182
+268,Roxana Girju  nlp,2.0,0.7,Univ. of Illinois at Urbana-Champaign,http://www.linguistics.illinois.edu/people/girju,https://dblp.org/pers/hd/g/Girju:Roxana,0,0.0
+269,Thenkurussi Kesavadas,2.0,0.3,Univ. of Illinois at Urbana-Champaign,http://ise.illinois.edu/directory/profile/kesh,https://dblp.org/pers/hd/k/Kesavadas:Thenkurussi,1,0.18181818181818182
+270,Alex Kirlik  hci,2.0,0.4,Univ. of Illinois at Urbana-Champaign,https://cs.illinois.edu/directory/profile/kirlik,https://dblp.org/pers/hd/k/Kirlik:Alex,1,0.18181818181818182
+271,Luke N. Olson,2.0,0.5,Univ. of Illinois at Urbana-Champaign,http://lukeo.cs.illinois.edu,https://dblp.org/pers/hd/o/Olson:Luke_N%3D,0,0.0
+272,Talia Ringer,2.0,0.5,Univ. of Illinois at Urbana-Champaign,https://dependenttyp.es,https://dblp.org/pers/hd/r/Ringer:Talia,0,0.0
+273,William H. Sanders  security,2.0,0.3,Univ. of Illinois at Urbana-Champaign,http://whs.crhc.illinois.edu,https://dblp.org/pers/hd/s/Sanders:William_H%3D,0,0.0
+274,Shaowen Wang  web+ir,2.0,0.3,Univ. of Illinois at Urbana-Champaign,http://www.cigi.illinois.edu/shaowen,https://dblp.org/pers/hd/w/Wang:Shaowen,0,0.0
+275,Robin Kravets,1.0,0.3,Univ. of Illinois at Urbana-Champaign,https://cs.illinois.edu/directory/profile/rhk,https://dblp.org/pers/hd/k/Kravets:Robin,1,0.18181818181818182
+276,Bertram Ludäscher,1.0,0.3,Univ. of Illinois at Urbana-Champaign,https://ischool.illinois.edu/people/bertram-ludascher,https://dblp.org/pers/hd/l/Lud=auml=scher:Bertram,1,0.09090909090909091
+277,David A. Padua,1.0,0.2,Univ. of Illinois at Urbana-Champaign,http://polaris.cs.uiuc.edu/~padua,https://dblp.org/pers/hd/p/Padua:David_A%3D,0,0.0
+278,Victoria Stodden,1.0,0.2,Univ. of Illinois at Urbana-Champaign,https://ischool.illinois.edu/people/victoria-stodden,https://dblp.org/pers/hd/s/Stodden:Victoria,1,0.09090909090909091
+279,Viet Tung Hoang  crypto,22.0,8.3,Florida State University,http://www.cs.fsu.edu/~tvhoang,https://dblp.org/pers/hd/h/Hoang:Viet_Tung,0,0.0
+280,"Jie Yang 0003  mobile  ,  hci",18.0,3.6,Florida State University,http://www.cs.fsu.edu/~jieyang,https://dblp.org/pers/hd/y/Yang_0003:Jie,1,0.18181818181818182
+281,"Zhi Wang 0004  security  ,  arch",14.0,2.3,Florida State University,http://www.cs.fsu.edu/~zwang,https://dblp.org/pers/hd/w/Wang_0004:Zhi,1,0.09090909090909091
+282,Guang Wang  hci,13.0,2.2,Florida State University,https://guangwang.me,https://dblp.org/pers/hd/w/Wang:Guang,1,0.18181818181818182
+283,"Grigory Fedyukovich  logic  ,  pl",9.0,3.0,Florida State University,https://www.cs.princeton.edu/~grigoryf/about.html,https://dblp.org/pers/hd/f/Fedyukovich:Grigory,0,0.0
+284,Xin Yuan 0001  hpc,7.0,1.5,Florida State University,http://www.cs.fsu.edu/~xyuan,https://dblp.org/pers/hd/y/Yuan_0001:Xin,0,0.0
+285,Weikuan Yu  hpc,5.0,1.2,Florida State University,http://www.cs.fsu.edu/~yuw,https://dblp.org/pers/hd/y/Yu:Weikuan,0,0.0
+286,Shayok Chakraborty  ai,4.0,2.3,Florida State University,https://shayokch.com,https://dblp.org/pers/hd/c/Chakraborty:Shayok,0,0.0
+287,Sonia Haiduc  se,3.0,0.4,Florida State University,https://www.cs.fsu.edu/~shaiduc,https://dblp.org/pers/hd/h/Haiduc:Sonia,0,0.0
+288,Piyush Kumar  hci,3.0,0.7,Florida State University,http://compgeom.com/~piyush,https://dblp.org/pers/hd/k/Kumar:Piyush,0,0.0
+289,Peixiang Zhao  db,2.0,1.0,Florida State University,http://www.cs.fsu.edu/~zhao,https://dblp.org/pers/hd/z/Zhao:Peixiang,0,0.0
+290,Yi Liu 0059,1.0,0.1,Florida State University,https://jacoblau0513.github.io,https://dblp.org/pers/hd/l/Liu_0059:Yi,0,0.0
+291,Xiuwen Liu,1.0,0.3,Florida State University,http://www.koofers.com/florida-state-university-fsu/instructors/liu-755220,https://dblp.org/pers/hd/l/Liu:Xiuwen,0,0.0
+292,An-I Wang,1.0,0.3,Florida State University,http://www.cs.fsu.edu/~awang,https://dblp.org/pers/hd/w/Wang:An%3DI,0,0.0
